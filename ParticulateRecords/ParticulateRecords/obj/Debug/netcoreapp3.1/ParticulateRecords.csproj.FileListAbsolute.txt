@@ -1,0 +1,17 @@
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.csproj.AssemblyReference.cache
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.FormsBasedUI.resources
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.Properties.Resources.resources
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.csproj.GenerateResource.cache
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.AssemblyInfoInputs.cache
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.AssemblyInfo.cs
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.csproj.CoreCompileInputs.cache
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\bin\Debug\netcoreapp3.1\ParticulateRecords.exe
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\bin\Debug\netcoreapp3.1\ParticulateRecords.deps.json
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\bin\Debug\netcoreapp3.1\ParticulateRecords.runtimeconfig.json
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\bin\Debug\netcoreapp3.1\ParticulateRecords.runtimeconfig.dev.json
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\bin\Debug\netcoreapp3.1\ParticulateRecords.dll
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\bin\Debug\netcoreapp3.1\ParticulateRecords.pdb
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.dll
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.pdb
+C:\Users\kira\source\repos\ParticulateRecords\ParticulateRecords\obj\Debug\netcoreapp3.1\ParticulateRecords.genruntimeconfig.cache

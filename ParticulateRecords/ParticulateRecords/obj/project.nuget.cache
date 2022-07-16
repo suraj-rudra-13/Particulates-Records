@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vNiRZIBEAIUnd/86P07d6aqZGTOXmYmFZyWCxOVri5PhN/LJ+xenf1QMSInwBW3ZG7AxpcIG2YKxX7XJywE6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kira\\source\\repos\\ParticulateRecords\\ParticulateRecords\\ParticulateRecords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

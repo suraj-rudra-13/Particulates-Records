@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Particulates>
+ <Location name="Sunderland">
+ <Reading date="17/02/2022">
+ <value>16</value>
+ <temperature>12.0</temperature>
+ <humidity>54.5</humidity>
+ </Reading>
+ <Reading date="12/02/2022">
+ <value>10</value>
+ <temperature>6.4</temperature>
+ <humidity>45.0</humidity>
+ </Reading>
+ </Location>
+</Particulates>

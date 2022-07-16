@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Particulates>
+ <Location name="Boston">
+ <Reading date="14/02/2022">
+ <value>9</value>
+ <temperature>5.0</temperature>
+ <humidity>36.5</humidity>
+ </Reading>
+ <Reading date="15/02/2022">
+ <value>17</value>
+ <temperature>15.4</temperature>
+ <humidity>60.0</humidity>
+ </Reading>
+ </Location>
+</Particulates>
